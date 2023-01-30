@@ -1,0 +1,61 @@
+body {
+    margin: 15px;
+    padding: 10px;
+
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+hr {
+    border-color: blanchedalmond;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+
+    width: 30%;
+}
+
+ul {
+
+    list-style: none;
+}
+
+.infor {
+    text-align: center;
+    line-height: 2;
+    border: solid 2px orange;
+    width: 65%;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.infor2 {
+    text-align: left;
+    line-height: 1.5;
+    border: solid 2px orange;
+    width: 80%;
+    color: white;
+    font-size: 1.5rem;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+h2 {
+    color: orange;
+    font-size: 2rem;
+    text-align: center;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+}
+
+div img {
+
+    float: right;
+    width: 500px;
+
+}
